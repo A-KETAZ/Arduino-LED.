@@ -9,7 +9,7 @@ When the Arduino starts, the LED stays on for 3 seconds before the blinking star
 Components:
 * Arduino Uno
 * LED
-* Resistor 220 ohm 
+* Resistor 220 Ω (Red-Red-Brown-Gold)
 * Breadboard
 * Jumper wires
 
