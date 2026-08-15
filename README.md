@@ -16,6 +16,7 @@ Components:
 Tools :
 * Arduino IDE
 * C/C++
+* Tinkercad Circuits
 
 A-QITAZ
 Mechatronics Engineering Student :)
