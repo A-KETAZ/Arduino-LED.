@@ -17,5 +17,5 @@ Tools :
 * Arduino IDE
 * C/C++
 
-A-KETAZ
+A-QITAZ
 Mechatronics Engineering Student :)
