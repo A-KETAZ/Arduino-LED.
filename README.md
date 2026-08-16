@@ -1,4 +1,4 @@
-# Arduino LED Control :
+# Arduino LED Control
 A simple Arduino Uno project to control an LED using a digital pins.
 
 About :
